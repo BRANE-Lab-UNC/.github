@@ -31,7 +31,7 @@ At BRANE Lab, we utilize a variety of languages and tools to conduct our researc
 - **SPSS** [Learn more](https://www.ibm.com/products/spss-statistics/)
 - **MATLAB**: [Learn more](https://www.mathworks.com/)
 - **CSS3**: [Learn more](https://www.w3schools.com/css/)
-- **HTML5**: [Learn more](https://www.w3.org/html/)
+- **HTML5**: [Learn more](https://html.spec.whatwg.org/multipage/)
 - **Java**: [Learn more](https://www.java.com)
 - **Pandas**: [Learn more](https://pandas.pydata.org/)
 - **Python**: [Learn more](https://www.python.org)
