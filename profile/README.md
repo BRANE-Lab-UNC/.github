@@ -28,7 +28,7 @@ Our research at BRANE Lab encompasses several key focus areas:
 
 At BRANE Lab, we utilize a variety of languages and tools to conduct our research and develop interventions. Some of the languages and tools we work with include:
 
-- **SPSS** [Learn more](https://www.ibm.com/products/spss-statistics)
+- **SPSS** [Learn more](https://www.ibm.com/products/spss-statistics/)
 - **MATLAB**: [Learn more](https://www.mathworks.com/)
 - **CSS3**: [Learn more](https://www.w3schools.com/css/)
 - **HTML5**: [Learn more](https://www.w3.org/html/)
