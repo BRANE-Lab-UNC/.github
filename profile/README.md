@@ -32,8 +32,8 @@ At BRANE Lab, we utilize a variety of languages and tools to conduct our researc
 - **MATLAB**: [Learn more](https://www.mathworks.com/)
 - **CSS3**: [Learn more](https://www.w3schools.com/css/)
 - **HTML5**: [Learn more](https://html.spec.whatwg.org/multipage/)
-- **Java**: [Learn more](https://www.java.com)
-- **Pandas**: [Learn more](https://pandas.pydata.org/)
+- **Java**: [Learn more](https://www.java.com/en/download/help/whatis_java.html)
+- **Pandas**: [Learn more](https://pandas.pydata.org/community/ecosystem.html)
 - **Python**: [Learn more](https://www.python.org)
 
 We employ these tools to analyze data, build models, and create interventions that contribute to our overarching mission of combating addiction.
